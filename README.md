@@ -1,2 +1,0 @@
-# abhishak
-Hangman game 
